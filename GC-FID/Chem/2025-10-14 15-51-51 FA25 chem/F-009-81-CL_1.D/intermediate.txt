@@ -1,0 +1,56 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-009-81-CL_1.D
+Creation Date: 10/21/2025 3:37:12 PM
+Sample Name: CL_1
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    7.683 BB   13175.695  1018.924     0.207     7.387     9.715 
+   11.123 BB      14.541     1.566     0.136    11.025    11.936 
+   13.763 BV     161.317    28.224     0.091    13.621    14.001 
+   14.108 VB      51.760     7.818     0.101    14.001    14.841 
+   16.021 BB      84.735    14.212     0.090    15.877    16.970 
+   19.765 BB     212.743    43.277     0.077    19.541    20.807 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     7.683    Unknown       NewMain                            FID1A        96.167 ng/ul 
+    11.123    Unknown       NewMain                            FID1A         0.106 ng/ul 
+    13.763    Unknown       NewMain                            FID1A         1.177 ng/ul 
+    14.108    Unknown       NewMain                            FID1A         0.378 ng/ul 
+    16.021    Unknown       NewMain                            FID1A         0.618 ng/ul 
+    19.765    Unknown       NewMain                            FID1A         1.553 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-009-81-CL_1.D
+Creation Date: 10/22/2025 4:21:53 PM
+Sample Name: CL_1
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    7.683 BB   13175.695  1018.924     0.207     7.387     9.715 
+   11.123 BB      14.541     1.566     0.136    11.025    11.936 
+   13.763 BV     161.317    28.224     0.091    13.621    14.001 
+   14.108 VB      51.760     7.818     0.101    14.001    14.841 
+   16.021 BB      84.735    14.212     0.090    15.877    16.970 
+   19.765 BB     212.743    43.277     0.077    19.541    20.807 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     7.683    Unknown       NewMain                            FID1A        96.167 ng/ul 
+    11.123    Unknown       NewMain                            FID1A         0.106 ng/ul 
+    13.763    Unknown       NewMain                            FID1A         1.177 ng/ul 
+    14.108    Unknown       NewMain                            FID1A         0.378 ng/ul 
+    16.021    Unknown       NewMain                            FID1A         0.618 ng/ul 
+    19.765    Unknown       NewMain                            FID1A         1.553 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+

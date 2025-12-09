@@ -1,0 +1,34 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-046-87-CL_ROH_07.D
+Creation Date: 10/22/2025 4:30:30 PM
+Sample Name: CL_ROH_07
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    6.531 BB       2.620     0.132     0.276     6.080     7.209 
+    7.676 BB   11831.715   842.885     0.220     7.275     9.347 
+   11.146 BB       6.495     0.592     0.156    11.042    12.133 
+   13.817 BV E     1.656     0.225     0.106    13.716    14.041 
+   14.121 VB R    22.154     3.018     0.110    13.716    14.731 
+   16.027 BB      84.515    13.085     0.099    15.904    17.144 
+   18.785 BB       0.722     0.088     0.120    18.540    19.037 
+   19.572 BV      34.726     6.723     0.080    19.380    19.702 
+   19.782 VB      14.801     2.509     0.089    19.702    20.354 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     6.531    Unknown       NewMain                            FID1A         0.022 ng/ul 
+     7.676    Unknown       NewMain                            FID1A        98.603 ng/ul 
+    11.146    Unknown       NewMain                            FID1A         0.054 ng/ul 
+    13.817    Unknown       NewMain                            FID1A         0.014 ng/ul 
+    14.121    Unknown       NewMain                            FID1A         0.185 ng/ul 
+    16.027    Unknown       NewMain                            FID1A         0.704 ng/ul 
+    18.785    Unknown       NewMain                            FID1A         0.006 ng/ul 
+    19.572    Unknown       NewMain                            FID1A         0.289 ng/ul 
+    19.782    Unknown       NewMain                            FID1A         0.123 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,32 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-050-87-CL_ROH_07.D
+Creation Date: 10/22/2025 4:31:03 PM
+Sample Name: CL_ROH_07
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    6.533 BB       2.459     0.138     0.248     6.122     7.051 
+    7.685 BB   11788.685   880.377     0.212     7.392     9.528 
+   11.152 BB       6.377     0.616     0.149    11.018    12.161 
+   13.820 BV E     1.617     0.236     0.100    13.734    14.043 
+   14.125 VB R    22.148     3.187     0.105    13.734    14.874 
+   16.031 BB      84.240    13.671     0.096    15.910    17.181 
+   19.574 BV      34.662     6.834     0.083    19.471    19.704 
+   19.784 VB      14.758     2.575     0.087    19.704    20.376 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     6.533    Unknown       NewMain                            FID1A         0.021 ng/ul 
+     7.685    Unknown       NewMain                            FID1A        98.609 ng/ul 
+    11.152    Unknown       NewMain                            FID1A         0.053 ng/ul 
+    13.820    Unknown       NewMain                            FID1A         0.014 ng/ul 
+    14.125    Unknown       NewMain                            FID1A         0.185 ng/ul 
+    16.031    Unknown       NewMain                            FID1A         0.705 ng/ul 
+    19.574    Unknown       NewMain                            FID1A         0.290 ng/ul 
+    19.784    Unknown       NewMain                            FID1A         0.123 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+

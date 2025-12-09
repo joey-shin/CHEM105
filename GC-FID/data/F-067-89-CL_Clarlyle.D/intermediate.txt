@@ -1,0 +1,32 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-067-89-CL_Clarlyle.D
+Creation Date: 10/22/2025 4:33:15 PM
+Sample Name: CL_Clarlyle
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    6.522 BB       1.804     0.068     0.323     6.023     7.005 
+    7.684 BB   12073.563   948.233     0.201     7.273     9.500 
+   11.131 BB      16.262     1.768     0.135    11.049    12.272 
+   13.807 BV       2.671     0.421     0.094    13.715    14.030 
+   14.129 VB      12.734     1.859     0.104    14.030    14.664 
+   16.028 BB     118.660    19.873     0.094    15.918    17.172 
+   19.585 BV      11.198     2.183     0.080    19.428    19.717 
+   19.795 VB       6.153     0.922     0.098    19.717    20.806 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     6.522    Unknown       NewMain                            FID1A         0.015 ng/ul 
+     7.684    Unknown       NewMain                            FID1A        98.616 ng/ul 
+    11.131    Unknown       NewMain                            FID1A         0.133 ng/ul 
+    13.807    Unknown       NewMain                            FID1A         0.022 ng/ul 
+    14.129    Unknown       NewMain                            FID1A         0.104 ng/ul 
+    16.028    Unknown       NewMain                            FID1A         0.969 ng/ul 
+    19.585    Unknown       NewMain                            FID1A         0.091 ng/ul 
+    19.795    Unknown       NewMain                            FID1A         0.050 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+

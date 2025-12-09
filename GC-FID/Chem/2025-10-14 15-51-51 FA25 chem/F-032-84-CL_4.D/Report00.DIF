@@ -1,0 +1,278 @@
+TABLE
+0,1
+"HPLC3D"
+VECTORS
+0,3
+""
+TUPLES
+0,0
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"Sample Name"
+1,0
+"CL_4"
+1,0
+""
+-1,0
+BOT
+1,0
+"Sample Info"
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"Data File"
+1,0
+"D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\"
+1,0
+"F-032-84-CL_4.D"
+-1,0
+BOT
+1,0
+"Acq. Instrument"
+1,0
+"Charlie Brown"
+1,0
+""
+-1,0
+BOT
+1,0
+"Analysis Method"
+1,0
+"D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\"
+1,0
+"Whiskey Analysis FRONT only.M"
+-1,0
+BOT
+1,0
+"Method Info"
+1,0
+"Whiskey Analysis on DUAL SBP-20 columns. Based on "The Reporter Europe", vol 14, November 2004 International Issue, p  Supelco doc."The Analysis of Alcoholic Beverages on the 30m x 0.25mm ID, 1.0um SPB-20 Capillary Column"."
+1,0
+""
+-1,0
+BOT
+1,0
+"Results Created"
+1,0
+"10/22/2025 4:28:53 PM"
+1,0
+""
+-1,0
+BOT
+1,0
+"Results Created by"
+1,0
+"SYSTEM"
+1,0
+""
+-1,0
+BOT
+1,0
+"Acq. Method"
+1,0
+"Whiskey Analysis FRONT only.M"
+1,0
+""
+-1,0
+BOT
+1,0
+"Injection Date"
+1,0
+"15-Oct-25, 10:48:14"
+1,0
+""
+-1,0
+BOT
+1,0
+"Acq. Operator"
+1,0
+"SYSTEM"
+1,0
+""
+-1,0
+BOT
+1,0
+"Seq. Line"
+0,32
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Location"
+0,84
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"unused Loc."
+0,0
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Inj"
+0,5
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Inj Volume"
+0,0.5
+V
+1,0
+"µl"
+-1,0
+BOT
+1,0
+"Actual Inj Volume"
+0,0.5
+V
+1,0
+"µl"
+-1,0
+BOT
+1,0
+"Sequence File"
+1,0
+"D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\"
+1,0
+"FA25 chem.S"
+-1,0
+BOT
+1,0
+"Report Title"
+1,0
+"Area Percent Report"
+1,0
+""
+-1,0
+BOT
+1,0
+"Sorted By"
+1,0
+"Signal"
+1,0
+""
+-1,0
+BOT
+1,0
+"Multiplier           "
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Dilution             "
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Signals"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Signal 1"
+1,0
+"FID1 A, "
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Errors and Warnings"
+0,0
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Columns"
+0,7
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 1"
+1,0
+"Peak Number"
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 2"
+1,0
+"Retention Time"
+1,0
+"min"
+-1,0
+BOT
+1,0
+"Column 3"
+1,0
+"Peak Type"
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 4"
+1,0
+"Peak Width"
+1,0
+"min"
+-1,0
+BOT
+1,0
+"Column 5"
+1,0
+"  Area  "
+1,0
+" [pA*s]  "
+-1,0
+BOT
+1,0
+"Column 6"
+1,0
+"Height"
+1,0
+"  [pA]   "
+-1,0
+BOT
+1,0
+"Column 7"
+1,0
+"  Area   %"
+1,0
+""
+-1,0,
+EOD

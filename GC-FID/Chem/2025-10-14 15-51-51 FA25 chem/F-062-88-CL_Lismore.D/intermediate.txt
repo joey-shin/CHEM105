@@ -1,0 +1,32 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-062-88-CL_Lismore.D
+Creation Date: 10/22/2025 4:32:36 PM
+Sample Name: CL_Lismore
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    6.536 BB       1.201     0.094     0.184     6.388     6.899 
+    7.684 BB   11376.995   837.233     0.215     7.370     9.379 
+   11.142 BB      11.153     1.102     0.146    11.010    12.196 
+   13.808 BV       3.033     0.466     0.096    13.679    14.027 
+   14.127 VB      20.811     2.961     0.110    14.027    14.839 
+   16.032 BB      86.702    14.000     0.092    15.937    17.085 
+   19.574 BV      38.148     7.497     0.083    19.477    19.701 
+   19.783 VB      18.805     3.308     0.086    19.701    20.446 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     6.536    Unknown       NewMain                            FID1A         0.010 ng/ul 
+     7.684    Unknown       NewMain                            FID1A        98.444 ng/ul 
+    11.142    Unknown       NewMain                            FID1A         0.097 ng/ul 
+    13.808    Unknown       NewMain                            FID1A         0.026 ng/ul 
+    14.127    Unknown       NewMain                            FID1A         0.180 ng/ul 
+    16.032    Unknown       NewMain                            FID1A         0.750 ng/ul 
+    19.574    Unknown       NewMain                            FID1A         0.330 ng/ul 
+    19.783    Unknown       NewMain                            FID1A         0.163 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+

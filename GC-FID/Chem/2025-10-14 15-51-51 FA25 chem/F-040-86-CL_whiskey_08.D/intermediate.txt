@@ -1,0 +1,26 @@
+File Name: D:\105 F25\Data\chem\2025-10-14 15-51-51 FA25 chem\F-040-86-CL_whiskey_08.D
+Creation Date: 10/22/2025 4:29:48 PM
+Sample Name: CL_whiskey_08
+Sample Description: 
+Method: Whiskey Analysis FRONT only.M last changed 9/4/2025 3:10:57 PM
+
+Signal: FID1A
+     Time Type      Area    Height     Width     Start       End
+----------------------------------------------------------------
+    7.684 BB   13154.052  1030.436     0.205     7.382     9.504 
+   11.120 BB      21.262     2.301     0.140    11.023    12.391 
+   14.122 BB      12.160     1.755     0.105    14.002    14.810 
+   16.022 BB      82.832    13.830     0.090    15.870    17.189 
+   19.785 BB       7.849     1.406     0.085    19.534    20.302 
+
+
+   RetTime       Type CalibPeakType                       Signalname          Area%  Compound
+---------------------------------------------------------------------------------------------------------
+     7.684    Unknown       NewMain                            FID1A        99.065 ng/ul 
+    11.120    Unknown       NewMain                            FID1A         0.160 ng/ul 
+    14.122    Unknown       NewMain                            FID1A         0.092 ng/ul 
+    16.022    Unknown       NewMain                            FID1A         0.624 ng/ul 
+    19.785    Unknown       NewMain                            FID1A         0.059 ng/ul 
+
+-------------------------------------------------------------------------------------------------------------
+
